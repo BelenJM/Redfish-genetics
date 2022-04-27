@@ -1,4 +1,4 @@
-# Redfish genetics: development of a SNP-panel to effectively discriminate between ecotypes using genetics
+# Redfish genetics: development and validation of a SNP-panel to effectively discriminate between ecotypes using genetics
 
 This study describes the development of a SNP-panel that allows to distinguish between the three ecotypes of the Beaked redfish (Sebastes mentella), an important species that inhabites in the North Atlantic. We also validate the SNP panel by using four different population assignment methods on a simulated individuals obtained from the reference baseline for each ecotype
 
